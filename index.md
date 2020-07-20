@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Quinji Tech GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/QuinjiTech/quinjitech.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Our Official Webisite URL is [Quinji](https://quinji.com) which is not updated in such a long time as we mostly work on ###Upwork Portal
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here we have multiple people to serve you in different techologies with their expertise 
+## Server Administration
+- Web Security
+- Server Security
+- Information Security
+- Malware Removal
+- Virus Removal
+- Block Phishing
+- Spam Control
+- DDos Prevention
+- Hosting Management
 
-### Markdown
+## Development
+- Wordpress Development
+- Laravel
+- JS
+- PHP
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QuinjiTech/quinjitech.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
